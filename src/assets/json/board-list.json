@@ -1,0 +1,86 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "nickName": "익명",
+      "password": "1234",
+      "title": "익명게시판",
+      "createdDate": "2023-05-01T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 2,
+      "nickName": "야채파티",
+      "password": "5678",
+      "title": "채식주의자",
+      "createdDate": "2023-05-20T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 3,
+      "nickName": "조류러버",
+      "password": "8912",
+      "title": "조류연구회",
+      "createdDate": "2023-05-05T16:01:18",
+      "updatedDate": "2023-05-10T16:02:34"
+    },
+    {
+      "id": 4,
+      "nickName": "코딩맨",
+      "password": "1234",
+      "title": "해보세요, 코딩을",
+      "createdDate": "2023-04-24T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 5,
+      "nickName": "가데이터",
+      "password": "1234",
+      "title": "네 json 데이터 게시판입니다.",
+      "createdDate": "2023-05-30T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 6,
+      "nickName": "익명",
+      "password": "1234",
+      "title": "익명게시판",
+      "createdDate": "2023-05-01T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 7,
+      "nickName": "야채파티",
+      "password": "5678",
+      "title": "채식주의자",
+      "createdDate": "2023-05-20T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 8,
+      "nickName": "조류러버",
+      "password": "8912",
+      "title": "조류연구회",
+      "createdDate": "2023-05-05T16:01:18",
+      "updatedDate": "2023-05-10T16:02:34"
+    },
+    {
+      "id": 9,
+      "nickName": "코딩맨",
+      "password": "1234",
+      "title": "해보세요, 코딩을",
+      "createdDate": "2023-04-24T16:01:18",
+      "updatedDate": null
+    },
+    {
+      "id": 10,
+      "nickName": "가데이터",
+      "password": "1234",
+      "title": "네 json 데이터 게시판입니다.",
+      "createdDate": "2023-05-30T16:01:18",
+      "updatedDate": null
+    }
+  ],
+  "totalCount": 50,
+  "totalPages": 10
+}

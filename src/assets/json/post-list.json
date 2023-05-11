@@ -1,0 +1,139 @@
+{
+    "boardTitle": "FAQ",
+    "list": [
+        {
+            "id": 16,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 17,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 18,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 19,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 20,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 21,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 22,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 23,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 24,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 25,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 26,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        },
+        {
+            "id": 27,
+            "boardId": 34,
+            "nickName": "익명이",
+            "password": "1234",
+            "title": "자유게시판에 오신 것을 환영합니다.",
+            "content": "일단 냅다 해봅니다..",
+            "viewCount": 10,
+            "createdDate": "2023-05-01T00:00:00",
+            "updatedDate": null
+        }
+    ],
+    "totalCount": 12,
+    "totalPages": 2
+}
